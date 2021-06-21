@@ -5,6 +5,9 @@
 npm install gh-pages --save-dev
 ```
 
+
+
+
 ``` package.json ```
 ```json
 "homepage": "http://webcogy.github.io/testapp
@@ -26,6 +29,7 @@ npm run deploy
 
 github 상단의 Settings -> Options -> GitHub Pages 에서 확인
 
+※ 배포 후 깃페이지에 적용되기까지 시간이 좀 걸리므로 참고
 
 #### 깃페이지주소 https://webcogy.github.io/testapp/
 
