@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/webcogy/testapp/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/webcogy/testapp/static/js/main.73acc2dc.chunk.js",
-    "main.js.map": "/webcogy/testapp/static/js/main.73acc2dc.chunk.js.map",
-    "runtime-main.js": "/webcogy/testapp/static/js/runtime-main.f9850b99.js",
-    "runtime-main.js.map": "/webcogy/testapp/static/js/runtime-main.f9850b99.js.map",
-    "static/js/2.0cf37bf3.chunk.js": "/webcogy/testapp/static/js/2.0cf37bf3.chunk.js",
-    "static/js/2.0cf37bf3.chunk.js.map": "/webcogy/testapp/static/js/2.0cf37bf3.chunk.js.map",
-    "static/js/3.83f1cd14.chunk.js": "/webcogy/testapp/static/js/3.83f1cd14.chunk.js",
-    "static/js/3.83f1cd14.chunk.js.map": "/webcogy/testapp/static/js/3.83f1cd14.chunk.js.map",
-    "index.html": "/webcogy/testapp/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/webcogy/testapp/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.0cf37bf3.chunk.js.LICENSE.txt": "/webcogy/testapp/static/js/2.0cf37bf3.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/webcogy/testapp/static/media/logo.6ce24c58.svg"
+    "main.css": "/testapp/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/testapp/static/js/main.73acc2dc.chunk.js",
+    "main.js.map": "/testapp/static/js/main.73acc2dc.chunk.js.map",
+    "runtime-main.js": "/testapp/static/js/runtime-main.5da11459.js",
+    "runtime-main.js.map": "/testapp/static/js/runtime-main.5da11459.js.map",
+    "static/js/2.0cf37bf3.chunk.js": "/testapp/static/js/2.0cf37bf3.chunk.js",
+    "static/js/2.0cf37bf3.chunk.js.map": "/testapp/static/js/2.0cf37bf3.chunk.js.map",
+    "static/js/3.83f1cd14.chunk.js": "/testapp/static/js/3.83f1cd14.chunk.js",
+    "static/js/3.83f1cd14.chunk.js.map": "/testapp/static/js/3.83f1cd14.chunk.js.map",
+    "index.html": "/testapp/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/testapp/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0cf37bf3.chunk.js.LICENSE.txt": "/testapp/static/js/2.0cf37bf3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/testapp/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9850b99.js",
+    "static/js/runtime-main.5da11459.js",
     "static/js/2.0cf37bf3.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.73acc2dc.chunk.js"
