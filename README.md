@@ -1,5 +1,7 @@
 # git page 배포 테스트 샘플
 
+- yarn 이나 npm 한가지만 써서 쭉 진행해야 합니다.
+
 ```
 // 설치
 npm install gh-pages --save-dev
