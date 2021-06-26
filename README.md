@@ -3,6 +3,7 @@
 ```
 // 설치
 npm install gh-pages --save-dev
+yarn add gh-pages --save-dev
 ```
 
 
@@ -25,6 +26,7 @@ npm install gh-pages --save-dev
 ```
 // 배포 실행
 npm run deploy
+yarn run deploy
 ```
 
 github 상단의 Settings -> Options -> GitHub Pages 에서 확인
